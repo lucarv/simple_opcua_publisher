@@ -1,0 +1,12 @@
+{
+  "EndpointUrl": "opc.tcp://opcua.rocks:4840",
+  "UseSecurity": false,
+  "OpcNodes": [
+    {
+      "Id": "ns=1;s=62541",
+      "OpcSamplingInterval": 2000,
+      "OpcPublishingInterval": 5000,
+      "DisplayName": "HelloWorld"
+    }
+  ]
+}

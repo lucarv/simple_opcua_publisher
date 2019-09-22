@@ -1,0 +1,10 @@
+[
+    {
+        "nodeId": "ns=1;s=/Plc/DB521.DBB6",
+        "friendlyName": "SomeSensor"
+    },
+    {
+        "nodeId": "ns=1;s=/NC/_N_NC_GD3_ACX/COUNTER",
+        "friendlyName": "SomeCounter"
+    }
+]
