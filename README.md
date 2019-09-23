@@ -5,6 +5,7 @@ Based on the node-opcua [sdk](http://node-opcua.github.io/).
 
 ## simple instructions
 1. download/clone
-2. create a device on your IoT Hub. Set an envvar name _cs_ with the value of the device's connection string.
-3. edit the pn.json according to the opcua server
-4. start the client (enter _node client_ at a console)
+2. npm install
+3. create a device on your IoT Hub. Set an envvar name _cs_ with the value of the device's connection string.
+4. edit the pn.json according to the opcua server
+5. start the client (enter _node client_ at a console)
