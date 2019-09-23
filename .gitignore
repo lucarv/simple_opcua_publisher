@@ -1,6 +1,4 @@
 node_modules
 edge_module
 *.yaml
-
-config/
 .env

@@ -1,12 +1,22 @@
 {
-  "EndpointUrl": "opc.tcp://opcua.rocks:4840",
+  "EndpointUrl": "opc.tcp://opcuademo.sterfive.com:26543",
   "UseSecurity": false,
   "OpcNodes": [
     {
-      "Id": "ns=1;s=62541",
+      "Id": "ns=1;s=FanSpeed",
       "OpcSamplingInterval": 2000,
       "OpcPublishingInterval": 5000,
-      "DisplayName": "HelloWorld"
+      "DisplayName": "Fan Spped"
+    },{
+      "Id": "ns=1;s=PumpSpeed",
+      "OpcSamplingInterval": 2000,
+      "OpcPublishingInterval": 5000,
+      "DisplayName": "Pump Speed"
+    },{
+      "Id": "ns=1;s=Temperature",
+      "OpcSamplingInterval": 2000,
+      "OpcPublishingInterval": 5000,
+      "DisplayName": "Tempreature"
     }
   ]
 }
