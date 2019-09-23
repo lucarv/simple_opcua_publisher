@@ -1,7 +1,7 @@
-# simple_opcua_publisher  
+# simple OPC UA publisher  
 
 A simple OPC UA publisher that publishes data on Azure IoT Hub.  
-Based on the node-opcua [sdk](http://node-opcua.github.io/) 
+Based on the node-opcua [sdk](http://node-opcua.github.io/). 
 
 ## simple instructions
 1. download/clone
