@@ -16,7 +16,7 @@
       "Id": "ns=1;s=Temperature",
       "OpcSamplingInterval": 2000,
       "OpcPublishingInterval": 5000,
-      "DisplayName": "Tempreature"
+      "DisplayName": "Temperature"
     }
   ]
 }
